@@ -18,7 +18,7 @@ local start = [[ ]]
 local help = [[
 ➖➖➖➖➖➖➖➖➖➖➖
 *commands:*`for admin`
-`/ban` ✴️
+`/ban` ✴
 بن کردن یک شخص
 `/unban` ✴️
 ان بن کردن یک شخص
