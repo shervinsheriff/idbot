@@ -373,7 +373,7 @@ user = bot.username
 else
 user = msg.from.username
 end
-local text = "سلام ["..msg.from.first_name.."](www.telegram.me/"..user..")\n\n[ربات خود را بسازید](http://Telegram.me/Hacker_Unknown)"
+local text = "سلام ["..msg.from.first_name.."](www.telegram.me/"..user..")\n\n[Call To owner 💠](http://Telegram.me/Hacker_Unknown)"
 sendMessage(msg.chat.id,text.."\n"..start,true,false,true)
 elseif is_admin(msg) and msg.text == "/users" then
  	local r = tostring(#add.id)
