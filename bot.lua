@@ -6,7 +6,7 @@ JSON = require('dkjson')
 HTTPS = require('ssl.https')
 dofile('utilities.lua')
 ----config----
-local bot_api_key = "225895979:AAEirACvSzxewK8tcHd6Wry_5viGVCi9iU4"
+local bot_api_key = ""
 local You = 149228796
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = ""
@@ -15,7 +15,7 @@ local start = [[ ]]
 -------
 
 ----utilites----"
-local help = [[
+local help = [[ 
 ➖➖➖➖➖➖➖➖➖➖➖
 *commands:*`for admin`
 `/ban` ✴
